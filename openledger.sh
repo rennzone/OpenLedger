@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# update
+sudo apt update && sudo apt upgrade -y
+
 # root
 if [ "$(id -u)" != "0" ]; then
     echo "Script ini harus dijalankan sebagai root atau menggunakan sudo."
