@@ -13,7 +13,7 @@ Apa saja yang dibutuhkan?
 
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/rennzone/OpenLedger/refs/heads/main/openledger.sh | bash
+wget https://raw.githubusercontent.com/rennzone/OpenLedger/refs/heads/main/openledger.sh && bash openledger.sh
 ```
     
 ## Support
