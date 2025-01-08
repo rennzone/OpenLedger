@@ -15,7 +15,13 @@ Apa saja yang dibutuhkan?
 ```bash
 wget https://raw.githubusercontent.com/rennzone/OpenLedger/refs/heads/main/openledger.sh && bash openledger.sh
 ```
-    
+
+Kemudian akses server kalian via RDP 
+
+```
+openledger-node --no-sandbox
+```
+
 ## Support
 
 Join grup Telegram : https://t.me/tutorialnodegrup
